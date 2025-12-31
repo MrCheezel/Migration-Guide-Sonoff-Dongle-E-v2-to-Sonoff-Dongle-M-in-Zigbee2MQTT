@@ -4,6 +4,7 @@ No device re-pairing required
 🧰 What You Will Need
 Hardware
 ·	Raspberry Pi 4 running Home Assistant
+
 ·	Sonoff Zigbee Dongle‑E v2 (current coordinator)
 ·	Sonoff Zigbee Dongle‑M (new coordinator)
 ·	USB extension cable (strongly recommended to reduce interference)
