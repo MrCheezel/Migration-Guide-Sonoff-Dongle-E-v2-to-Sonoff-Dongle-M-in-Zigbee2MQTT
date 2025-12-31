@@ -1,5 +1,5 @@
 Zigbee2MQTT Migration Guide
-Sonoff Dongle-E v2 → Sonoff Dongle-M (EFR32MG24 / Ember)
+Sonoff Dongle-E v2 → Sonoff Dongle-M (EFR32MG24 / Ember) on Raspberry Pi 4 running Home Assistant 16.3 (Core 2025.12.5)
 
 No device re-pairing required
 
